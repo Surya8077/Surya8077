@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Surya 👋
 
-<!--
-**Surya8077/Surya8077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Student | Developer | Problem Solver
 
-Here are some ideas to get you started:
+I'm a B.Tech student interested in Web Development, DSA,
+UI Design and building interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Student
+- 💻 Learning JavaScript and Web Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🎨 Interested in UI/UX and CSS
+- 🚀 Building projects to improve my development skills
+
+---
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- Git
+- GitHub
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn
+- LeetCode
+- GeeksforGeeks
+- Portfolio
