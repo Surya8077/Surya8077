@@ -2,10 +2,12 @@
 
 ### B.Tech Student | Developer | Problem Solver
 
+<img width="1200" height="750" alt="surya_ascii_profile_animation" src="https://github.com/user-attachments/assets/a28156ef-090c-4021-944b-f63fd1109c1e" />
+
+
+
 I'm a B.Tech student interested in Web Development, DSA,
 UI Design and building interesting projects.
-
----
 
 ## 🚀 About Me
 
