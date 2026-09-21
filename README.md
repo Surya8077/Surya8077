@@ -2,9 +2,7 @@
 
 ### B.Tech Student | Developer | Problem Solver
 
-<img width="1200" height="750" alt="surya_ascii_profile_animation" src="https://github.com/user-attachments/assets/a28156ef-090c-4021-944b-f63fd1109c1e" />
-
-
+<img width="496" height="368" alt="WhatsApp GIF 2026-09-21 at 12 33 29" src="https://github.com/user-attachments/assets/56482b53-79f3-4693-a5c3-2be0dd3d5d4a" />
 
 I'm a B.Tech student interested in Web Development, DSA,
 UI Design and building interesting projects.
